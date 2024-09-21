@@ -9,6 +9,7 @@ HTTP-5126-0NA
 This repository includes files, folders, and exercises related to the subject of **Database Design and Development**.
 
 ## Tools
+
 - [XAMPP](https://www.apachefriends.org/)
 - [Adminer](https://www.adminer.org/)
 
@@ -20,3 +21,7 @@ This repository includes files, folders, and exercises related to the subject of
 /* The below code extracts all the data from the employees table */
 SELECT * FROM employees;
 ```
+
+## Images
+![XAMPP-TOOL](./images/XAMPP-img.jpg)
+![ADMINER-TOOL](./images/adminer-img.png)
