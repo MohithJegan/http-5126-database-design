@@ -16,7 +16,7 @@ This repository includes files, folders, and exercises related to the subject of
 
 ## Sample Code
 
-```
-// The below code extracts all the data from the employees table
+```SQL
+/* The below code extracts all the data from the employees table */
 SELECT * FROM employees;
 ```
