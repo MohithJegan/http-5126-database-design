@@ -9,5 +9,7 @@ HTTP-5126-0NA
 This repository contains files and folders related to **Database Design & Development** subject.
 
 ## Tools
-[XAMPP](https://www.apachefriends.org/)
-[Adminer](https://www.adminer.org/)
+- [XAMPP](https://www.apachefriends.org/)
+- [Adminer](https://www.adminer.org/)
+
+> SQL (Structured Query Language) is utilized for executing operations on a database.
