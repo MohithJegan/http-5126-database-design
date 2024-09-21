@@ -23,8 +23,8 @@ SELECT * FROM employees;
 ```
 
 ## Images
-XAMPP TOOL
+##### XAMPP TOOL
 ![XAMPP-TOOL](./images/XAMPP-img.jpg)
 
-ADMINER TOOL
+##### ADMINER TOOL
 ![ADMINER-TOOL](./images/adminer-img.png)
